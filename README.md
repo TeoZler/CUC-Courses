@@ -1,8 +1,8 @@
 # CUC_Courses
 
-非常粗糙的CUC的抢课脚本
+非常粗糙的CUC抢课脚本
 
-## 使用教程
+## 使用
 
 1. clone此项目。`git clone https://github.com/TeoZler/CUC-Courses`
 2. `pip install requests`
