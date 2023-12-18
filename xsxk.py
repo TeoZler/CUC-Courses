@@ -43,4 +43,4 @@ for i in range(len(data)):
     ret = requests.post(url, data=data[i], headers=headers)
     print(ret.text)
     print(ret.cookies)
-    time.sleep(random.randint(20, 30) / 10) #每次请求间隔0.2~0.3秒，可以自己视情况修改
+    time.sleep(random.randint(20, 30) / 100) #每次请求间隔0.2~0.3秒，可以自己视情况修改
